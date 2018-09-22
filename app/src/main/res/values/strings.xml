@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidFloatingActionButton1</string>
+    <string name="photo">Photo</string>
+    <string name="record">Record</string>
+    <string name="edit">Edit</string>
+</resources>
